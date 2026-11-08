@@ -1,0 +1,8 @@
+{
+  "selection_rule": "highest mean validation macro-F1 (test set not used)",
+  "setting": "L1_max_root_as_stored",
+  "best_gnn_by_dataset": {
+    "politifact": "GraphSAGE",
+    "gossipcop": "GraphSAGE"
+  }
+}

@@ -1,0 +1,5 @@
+Dataset,GNN,Variant,Accuracy,Macro F1,ROC-AUC,seeds
+PolitiFact,GraphSAGE,Best GNN,0.828 ± 0.009,0.828 ± 0.009,0.885 ± 0.006,5
+PolitiFact,GraphSAGE,Best GNN + statistics,0.813 ± 0.053,0.811 ± 0.057,0.884 ± 0.014,5
+GossipCop,GraphSAGE,Best GNN,0.966 ± 0.002,0.966 ± 0.002,0.994 ± 0.001,5
+GossipCop,GraphSAGE,Best GNN + statistics,0.965 ± 0.005,0.965 ± 0.005,0.994 ± 0.000,5

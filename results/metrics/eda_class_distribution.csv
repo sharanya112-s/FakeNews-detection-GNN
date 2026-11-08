@@ -1,0 +1,17 @@
+dataset,split,class_index,raw_label,class_name,count,percent
+PolitiFact,train,0,0.0,class 0,36,58.064516129032256
+PolitiFact,train,1,1.0,class 1,26,41.935483870967744
+PolitiFact,val,0,0.0,class 0,13,41.935483870967744
+PolitiFact,val,1,1.0,class 1,18,58.064516129032256
+PolitiFact,test,0,0.0,class 0,108,48.86877828054298
+PolitiFact,test,1,1.0,class 1,113,51.13122171945702
+PolitiFact,all,0,0.0,class 0,157,50.0
+PolitiFact,all,1,1.0,class 1,157,50.0
+GossipCop,train,0,0.0,class 0,557,51.00732600732601
+GossipCop,train,1,1.0,class 1,535,48.99267399267399
+GossipCop,val,0,0.0,class 0,265,48.53479853479853
+GossipCop,val,1,1.0,class 1,281,51.46520146520147
+GossipCop,test,0,0.0,class 0,1910,49.92158912702561
+GossipCop,test,1,1.0,class 1,1916,50.07841087297439
+GossipCop,all,0,0.0,class 0,2732,50.0
+GossipCop,all,1,1.0,class 1,2732,50.0

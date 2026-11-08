@@ -1,0 +1,48 @@
+{
+  "dataset": "GossipCop",
+  "model": "Text-only MLP",
+  "feature_type": "root-node bert (768-d), graph.x[0] only",
+  "uses_text": true,
+  "uses_graph_structure": false,
+  "seed": 45,
+  "hyperparameters": {
+    "hidden_dim": 128,
+    "dropout": 0.5,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "batch_size": 32,
+    "max_epochs": 300,
+    "patience": 30,
+    "min_delta": 0.0001,
+    "standardize": true
+  },
+  "train_graphs": 1092,
+  "val_graphs": 546,
+  "test_graphs": 3826,
+  "device": "cpu",
+  "training_time_seconds": 8.82,
+  "best_epoch": 3,
+  "best_val_loss": 0.49228671193122864,
+  "epochs_run": 33,
+  "selection_criterion": "lowest validation cross-entropy (early stopping)",
+  "label_semantics": "unverified (class 0/1)",
+  "metrics_test": {
+    "accuracy": 0.7456874019864088,
+    "precision_macro": 0.7539439197991309,
+    "recall_macro": 0.7458281869951578,
+    "f1_macro": 0.7436750668147959,
+    "roc_auc": 0.8162701253702631
+  },
+  "versions": {
+    "Python": "3.13.13",
+    "Platform": "Windows-11-10.0.26200-SP0",
+    "NumPy": "2.4.3",
+    "Pandas": "2.3.3",
+    "SciPy": "1.17.1",
+    "scikit-learn": "1.8.0",
+    "NetworkX": "3.6.1",
+    "PyTorch": "2.11.0+cpu",
+    "PyG": "2.8.1"
+  },
+  "run_id": "20261108_130203"
+}

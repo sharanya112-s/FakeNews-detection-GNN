@@ -20,6 +20,10 @@ env/
 .env
 .env.*
 
+# Downloaded datasets: do not commit dataset files
+data/*
+!data/README.md
+
 # Trained model files
 *.pt
 *.pth

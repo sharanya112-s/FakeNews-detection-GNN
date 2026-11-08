@@ -1,0 +1,3 @@
+dataset,graphs,nodes,edges,feature_dim,features_dense_GiB,features_in_memory_MiB,load_time_s,graph_build_time_s
+PolitiFact,314,41054,40740,768,0.117,240.7,4.12,0.61
+GossipCop,5464,314262,308798,768,0.899,1842.6,32.04,3.58

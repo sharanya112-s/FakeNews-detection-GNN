@@ -1,0 +1,3 @@
+dataset,load_time_s,graph_build_time_s,nodes,graphs
+PolitiFact,4.25,0.96,41054,314
+GossipCop,32.6,6.77,314262,5464

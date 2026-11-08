@@ -1,0 +1,7 @@
+setting,dataset,model,macro-F1 mean,macro-F1 std,runs
+L1_max_root_as_stored,GossipCop,GAT,0.9629,0.0054,5
+L1_max_root_as_stored,GossipCop,GCN,0.9491,0.0063,5
+L1_max_root_as_stored,GossipCop,GraphSAGE,0.9664,0.0022,5
+L1_max_root_as_stored,PolitiFact,GAT,0.8224,0.008,5
+L1_max_root_as_stored,PolitiFact,GCN,0.8242,0.0067,5
+L1_max_root_as_stored,PolitiFact,GraphSAGE,0.8221,0.0084,5

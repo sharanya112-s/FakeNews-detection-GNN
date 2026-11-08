@@ -1,0 +1,5 @@
+Dataset,Model,Accuracy,Macro F1,ROC-AUC
+PolitiFact,Text-only MLP,0.813 ± 0.017,0.812 ± 0.017,0.863 ± 0.006
+GossipCop,Text-only MLP,0.740 ± 0.004,0.739 ± 0.004,0.811 ± 0.007
+PolitiFact,Propagation-only RF,0.519 ± 0.009,0.486 ± 0.005,0.559 ± 0.011
+GossipCop,Propagation-only RF,0.815 ± 0.001,0.815 ± 0.001,0.888 ± 0.001

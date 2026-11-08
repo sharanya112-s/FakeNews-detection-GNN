@@ -1,0 +1,32 @@
+{
+  "setting": "L1_max_root_as_stored",
+  "edge_mode": "as_stored",
+  "readout": "max",
+  "num_layers": 1,
+  "root_fusion": true,
+  "cfg": {
+    "hidden_dim": 128,
+    "dropout": 0.5,
+    "lr": 0.001,
+    "weight_decay": 0.0005,
+    "max_epochs": 100,
+    "patience": 15,
+    "gat_heads": 1,
+    "gat_attn_dropout": 0.0
+  },
+  "batch_size": {
+    "politifact": 32,
+    "gossipcop": 64
+  },
+  "eval_batch_size": {
+    "politifact": 64,
+    "gossipcop": 128
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ]
+}

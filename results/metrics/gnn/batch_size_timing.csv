@@ -1,0 +1,9 @@
+dataset,model,batch_size,epoch_seconds,peak_gpu_mb,cpu_memory_mb
+PolitiFact,GraphSAGE,16,0.34,,1579.4
+PolitiFact,GraphSAGE,32,0.25,,1568.2
+PolitiFact,GraphSAGE,64,0.21,,1559.1
+PolitiFact,GraphSAGE,128,0.18,,1559.3
+GossipCop,GraphSAGE,16,3.53,,1544.4
+GossipCop,GraphSAGE,32,3.13,,1555.2
+GossipCop,GraphSAGE,64,2.67,,1566.0
+GossipCop,GraphSAGE,128,2.23,,1568.6
