@@ -43,7 +43,7 @@
   "val_graphs": 31,
   "test_graphs": 221,
   "device": "cpu (scikit-learn)",
-  "training_time_seconds": 11.38,
+  "training_time_seconds": 9.79,
   "label_semantics": "unverified (class 0/1)",
   "metrics_test": {
     "accuracy": 0.5067873303167421,
@@ -63,5 +63,5 @@
     "PyTorch": "2.11.0+cpu",
     "PyG": "2.8.1"
   },
-  "run_id": "20261108_130203"
+  "run_id": "20261108_223418"
 }

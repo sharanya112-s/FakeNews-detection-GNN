@@ -36,6 +36,6 @@ https://arxiv.org/abs/1706.02216
 
 ## Attribution
 
-The original datasets, research framework, and adapted implementations will be properly attributed to their respective authors.
+The UPFD and FakeNewsNet datasets, the UPFD framework, and the GCN, GAT and GraphSAGE architectures are the work of their respective authors, cited above.
 
-Any adapted source code will retain its applicable copyright and license notices.
+The notebooks in this repository are based on the UPFD framework. The official GNN-FakeNews repository is released under the Apache License 2.0.

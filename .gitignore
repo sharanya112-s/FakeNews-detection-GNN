@@ -34,8 +34,6 @@ results/checkpoints/
 
 # Logs
 *.log
-results/logs/*
-!results/logs/.gitkeep
 
 # Editor and operating system
 .vscode/

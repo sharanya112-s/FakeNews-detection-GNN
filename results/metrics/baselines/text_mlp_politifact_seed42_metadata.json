@@ -20,7 +20,7 @@
   "val_graphs": 31,
   "test_graphs": 221,
   "device": "cpu",
-  "training_time_seconds": 1.22,
+  "training_time_seconds": 1.18,
   "best_epoch": 5,
   "best_val_loss": 0.464670866727829,
   "epochs_run": 35,
@@ -44,5 +44,5 @@
     "PyTorch": "2.11.0+cpu",
     "PyG": "2.8.1"
   },
-  "run_id": "20261108_130203"
+  "run_id": "20261108_223418"
 }

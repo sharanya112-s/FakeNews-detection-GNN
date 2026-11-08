@@ -23,13 +23,13 @@
   "device": "cpu",
   "best_epoch": 9,
   "epochs_run": 24,
-  "train_time_s": 77.36,
+  "train_time_s": 82.72,
   "peak_gpu_mb": null,
-  "cpu_rss_mb": 1776.9,
+  "cpu_rss_mb": 1751.4,
   "train_loss_at_best": 0.13513880487763402,
   "val_loss_at_best": 0.1511543652950189,
   "train_acc_at_best": 0.9587912087912088,
   "val_acc_at_best": 0.9468864468864469,
   "val_f1_at_best": 0.9468077601410935,
-  "run_id": "20261108_132144"
+  "run_id": "20261108_224059"
 }
